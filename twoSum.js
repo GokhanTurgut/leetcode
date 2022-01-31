@@ -1,3 +1,4 @@
+// Hash table solution, O(n) Time Complexity, O(n) Space Complexity
 function twoSum(nums, target) {
   const previous = {};
 
