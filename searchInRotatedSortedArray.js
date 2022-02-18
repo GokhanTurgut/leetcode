@@ -1,5 +1,6 @@
 // To achieve O(logn) time complexity we need to use binary search
 // and to account for the array rotation we adjusted the algorithm
+// accordingly.
 function search(nums, target) {
   let left = 0;
   let right = nums.length - 1;
