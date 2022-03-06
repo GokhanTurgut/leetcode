@@ -1,5 +1,5 @@
 /*
-  For this solution we create a new intervals
+  In this solution we create a new intervals
   array to return at the end and start looping
   through the sorted intervals array to check if
   the new interval we are gonna insert overlaps
