@@ -6,7 +6,7 @@
   sorted array to link them together based
   on their position on the sorted array.
   At the end we return the starting node
-  from the array. Time complexity is O(logn)
+  from the array. Time complexity is O(nlogn)
   where n is the total number of nodes in all
   lists because of the sorting operation.
 */
